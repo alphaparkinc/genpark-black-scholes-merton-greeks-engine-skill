@@ -1,0 +1,9 @@
+{
+  "name": "genpark-black-scholes-merton-greeks-engine-skill",
+  "version": "1.0.0",
+  "description": "Black-Scholes-Merton European option analytical pricing and first/second-order Greeks (Delta, Gamma, Vega, Theta, Rho) engine.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
