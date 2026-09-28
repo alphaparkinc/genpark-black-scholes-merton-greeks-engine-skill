@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-black-scholes-merton-greeks-engine-skill"
+version = "1.0.0"
+description = "Black-Scholes-Merton European option analytical pricing and first/second-order Greeks (Delta, Gamma, Vega, Theta, Rho) engine."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
